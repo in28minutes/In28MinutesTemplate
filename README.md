@@ -1,16 +1,15 @@
 # Title of the Best Course in the world
 ## Caption for the course.
 
+* [About in28Minutes](#about-in28minutes)
+  - [Our Beliefs](#our-beliefs)
+  - [Basic Courses](#basic-courses)
+
 ##About in28Minutes
 - At in28Minutes, we ask ourselves one question everyday. How do we create more effective trainings?
 - We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real World Application Examples. 
 - Our success on Udemy and Youtube (2 Million Views & 12K Subscribers) speaks volumes about the success of our approach.
 - While our primary expertise is on Development, Design & Architecture Java & Related Frameworks (Spring, Struts, Hibernate) we are expanding into the front-end world (Bootstrap, JQuery, Angular JS). 
-
-##Basic Courses
-- [Maven](http://www.in28minutes.com/p/maven-tutorial-for-beginners.html)
-- [Eclipse](http://www.in28minutes.com/p/eclipse-java-video-tutorial.html)
-- [Design Patterns](http://www.in28minutes.com/p/design-patterns-tutorial.html)
 
 ###Our Beliefs
 - Best Course are interactive and fun.
@@ -24,12 +23,17 @@
 - All the code is available on Github, for most steps.
 
 ###Useful Links
-- [Our Website](http://wwww.in28minutes.com)
+- [Our Website](http://www.in28minutes.com)
 - [Youtube Courses](https://www.youtube.com/user/rithustutorials/playlists)
 - [Udemy Courses](https://www.udemy.com/user/in28minutes/)
 - [Facebook](http://facebook.com/in28minutes)
 - [Twitter](http://twitter.com/in28minutes)
 - [Google Plus](https://plus.google.com/u/3/110861829188024231119)
+
+###Basic Courses
+- [Maven](http://www.in28minutes.com/p/maven-tutorial-for-beginners.html)
+- [Eclipse](http://www.in28minutes.com/p/eclipse-java-video-tutorial.html)
+- [Design Patterns](http://www.in28minutes.com/p/design-patterns-tutorial.html)
 
 ##Installing Eclipse and Java
 https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
