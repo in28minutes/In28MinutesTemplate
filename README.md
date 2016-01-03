@@ -23,6 +23,10 @@ https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-J
   - Maven for dependency management, building and running the application in tomcat.
   - Eclipse IDE.
 
+Reference: 
+- Pasta Making 101 is an introductory course for home chefs seeking to improve their Italian cooking and pasta-making skills. Throughout the course we will cover techniques used by executive chefs throughout the world, and walk you through a step-by-step process for creating these masterpieces at home, and we’ll even include a few “secrets of the pros.
+- Because our goal is to get you up to speed as quickly as possible, we’ll cover the different kinds of pasta around the world, equipment basics, ingredient prep, shaping techniques, the ideal water-to-starch ratio, boiling methods, and some of my favorite family recipes.  At the end of the course you’ll be a past-making maestro, with enough confidence to open a pop-up restaurant, or just host a delicious dinner party.
+
 ###Step List
 - Understand Basics of HTTP - HttpRequest - GET/POST, Request Parameters
 - Introduction to JSP, Servlets, JSTL, Scriptlets and EL.
@@ -45,6 +49,12 @@ https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-J
 - What are we waiting for?
 - Let's have some fun with *** in 25 Steps.
 - We had fun creating this course and we hope you would too.
+- Thanks for your interest in Our Course 
+  - I hope you’re as excited as I am!  
+  - If you’re ready to learn more and sign up for the course, 
+  - go ahead and hit that Enroll button, 
+  - or take a test drive by using the Free Preview feature.  
+- See you in the course!
 
 ##Exercises
 - Split TodoController into different Controllers
@@ -114,3 +124,5 @@ https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-J
   * Design Patterns
   * 400+ Questions
   * 23 Videos
+  
+  
