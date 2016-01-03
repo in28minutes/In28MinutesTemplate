@@ -1,9 +1,65 @@
 # Title of the Best Course in the world
 ## Caption for the course.
 
+* [Running examples](#running-examples)
+* [Course Overview](#course-overview)
+  - [Course Steps](#step-list)
+  - [Expectations](#expectations)
 * [About in28Minutes](#about-in28minutes)
   - [Our Beliefs](#our-beliefs)
-  - [Basic Courses](#basic-courses)
+  - [Our Approach](#our-approach)
+  - [Find Us](#useful-links)
+  - [Other Courses](#other-courses)
+
+##Installing Eclipse and Java
+https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
+
+##Course Overview
+- I'm Ranga Karanam. I've so and so much experience with ...
+- In this course, I teach *** Framework step by step with (*** functionality) using (*** framework features)
+- We will touch upon the basics like *** and move on to the advanced concepts like ***.
+- We will use 
+  - ... todo ...
+  - Maven for dependency management, building and running the application in tomcat.
+  - Eclipse IDE.
+
+###Step List
+- Understand Basics of HTTP - HttpRequest - GET/POST, Request Parameters
+- Introduction to JSP, Servlets, JSTL, Scriptlets and EL.
+- Understand Basics of using Maven, Tomcat and Eclipse
+
+###Running Examples
+- If you are downloading the zip file, unzip the file
+- Open Command Prompt and Change directory to folder containing pom.xml
+- Run command "mvn tomcat7:run"
+- For help : use our installation guide - https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf & https://www.youtube.com/watch?v=DLPjCZ5n_SM
+
+
+###Expectations
+- You should know Java. 
+- NO prior experience with web development is needed.
+- NO prior experience with Spring is needed.
+- We will help you install Eclipse and get up and running with Maven and Tomcat.
+
+##Let's have some fun
+- What are we waiting for?
+- Let's have some fun with *** in 25 Steps.
+- We had fun creating this course and we hope you would too.
+
+##Exercises
+- Split TodoController into different Controllers
+- Use same TodoController for both updates and new todo
+- Functionality to mark a Todo as complete
+
+##Future Things To Do
+- Unit Tests - WTF - why are they not here in the first set?
+
+##Conclusion
+- Thats a lot of ground we covered over the last so and so..
+- To find out more about *** use these References  
+- We had fun creating this course and we are sure you had some fun too.
+- Good Luck and Bye from the team here at in28Minutes
+- Do not forget to leave us a review.
 
 ##About in28Minutes
 - At in28Minutes, we ask ourselves one question everyday. How do we create more effective trainings?
@@ -30,50 +86,31 @@
 - [Twitter](http://twitter.com/in28minutes)
 - [Google Plus](https://plus.google.com/u/3/110861829188024231119)
 
-###Basic Courses
+###Other Courses
+- [Spring Framework](https://www.udemy.com/spring-tutorial-for-beginners/)
 - [Maven](http://www.in28minutes.com/p/maven-tutorial-for-beginners.html)
 - [Eclipse](http://www.in28minutes.com/p/eclipse-java-video-tutorial.html)
+- Java
+  * [Java](https://www.youtube.com/watch?v=Y4ftqcYVh5I&list=PLE0D4634AE2DFA591&index=1)
+  * [Java Collections](http://www.in28minutes.com/p/java-collections-framework-video.html)
+  * [Java OOPS Concepts](https://www.udemy.com/learn-object-oriented-programming-in-java/) 
 - [Design Patterns](http://www.in28minutes.com/p/design-patterns-tutorial.html)
-
-##Installing Eclipse and Java
-https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
-
-##Course Overview
-- I'm Ranga Karanam. I've so and so much experience with ...
-- In this course, I teach *** Framework step by step with (*** functionality) using (*** framework features)
-- We will touch upon the basics like *** and move on to the advanced concepts like ***.
-- We will use 
-  - ... todo ...
-  - Maven for dependency management, building and running the application in tomcat.
-  - Eclipse IDE.
-
-###Step List
-- Understand Basics of HTTP - HttpRequest - GET/POST, Request Parameters
-- Introduction to JSP, Servlets, JSTL, Scriptlets and EL.
-- Understand Basics of using Maven, Tomcat and Eclipse
-
-##Expectations
-- You should know Java. 
-- NO prior experience with web development is needed.
-- NO prior experience with Spring is needed.
-- We will help you install Eclipse and get up and running with Maven and Tomcat.
-
-##Let's have some fun
-- What are we waiting for?
-- Let's have some fun with *** in 25 Steps.
-- We had fun creating this course and we hope you would too.
-
-##Exercises
-- Split TodoController into different Controllers
-- Use same TodoController for both updates and new todo
-- Functionality to mark a Todo as complete
-
-##Future Things To Do
-- Unit Tests - WTF - why are they not here in the first set?
-
-##Conclusion
-- Thats a lot of ground we covered over the last so and so..
-- To find out more about *** use these References  
-- We had fun creating this course and we are sure you had some fun too.
-- Good Luck and Bye from the team here at in28Minutes
-- Do not forget to leave us a review.
+- [JUnit](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/)
+- [C](https://www.udemy.com/c-tutorial-for-beginners-with-puzzles/)
+- [C Puzzles](https://www.udemy.com/c-puzzles-for-beginners/)
+- [Javascript](https://www.youtube.com/watch?v=6TZdD-FR6CY)
+- [More Courses on Udemy](https://www.udemy.com/user/in28minutes/)
+  * Java Servlets and JSP : Your first web application in 25 Steps
+  * Learn Spring MVC in 25 Steps 
+  * Learn Struts in 25 Steps 
+  * Learn Hibernate in 25 Steps
+  * 10 Steps to Professional Java Developer
+- [Java Interview Guide](http://www.in28minutes.com/p/buy-our-java-interview-guide.html)
+  * Core Java
+  * Advanced Java
+  * Spring, Spring MVC
+  * Struts
+  * Hibernate
+  * Design Patterns
+  * 400+ Questions
+  * 23 Videos
