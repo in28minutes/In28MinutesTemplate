@@ -1,7 +1,8 @@
 # Title of the Best Course in the world
 ## Caption for the course.
 
-* [Running examples](#running-examples)
+* [Installing Eclipse, Maven and Java](#installing-tools)
+* [Running Examples](#running-examples)
 * [Course Overview](#course-overview)
   - [Course Steps](#step-list)
   - [Expectations](#expectations)
@@ -11,8 +12,15 @@
   - [Find Us](#useful-links)
   - [Other Courses](#other-courses)
 
-##Installing Eclipse and Java
-https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
+##Installing Tools
+- PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
+- https://www.youtube.com/watch?v=DLPjCZ5n_SM
+
+##Running Examples
+- If you are downloading the zip file, unzip the file
+- Open Command Prompt and Change directory to folder containing pom.xml
+- Run command "mvn tomcat7:run"
+- For help : use our installation guide - https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf & https://www.youtube.com/watch?v=DLPjCZ5n_SM
 
 ##Course Overview
 - I'm Ranga Karanam. I've so and so much experience with ...
@@ -23,26 +31,18 @@ https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-J
   - Maven for dependency management, building and running the application in tomcat.
   - Eclipse IDE.
 
-Reference: 
+##Reference: 
 - Pasta Making 101 is an introductory course for home chefs seeking to improve their Italian cooking and pasta-making skills. Throughout the course we will cover techniques used by executive chefs throughout the world, and walk you through a step-by-step process for creating these masterpieces at home, and we’ll even include a few “secrets of the pros.
 - Because our goal is to get you up to speed as quickly as possible, we’ll cover the different kinds of pasta around the world, equipment basics, ingredient prep, shaping techniques, the ideal water-to-starch ratio, boiling methods, and some of my favorite family recipes.  At the end of the course you’ll be a past-making maestro, with enough confidence to open a pop-up restaurant, or just host a delicious dinner party.
 
 ###Step List
-- Understand Basics of HTTP - HttpRequest - GET/POST, Request Parameters
-- Introduction to JSP, Servlets, JSTL, Scriptlets and EL.
-- Understand Basics of using Maven, Tomcat and Eclipse
-
-###Running Examples
-- If you are downloading the zip file, unzip the file
-- Open Command Prompt and Change directory to folder containing pom.xml
-- Run command "mvn tomcat7:run"
-- For help : use our installation guide - https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf & https://www.youtube.com/watch?v=DLPjCZ5n_SM
-
+- TODO
+- TODO
 
 ###Expectations
-- You should know Java. 
-- NO prior experience with web development is needed.
-- NO prior experience with Spring is needed.
+- You should know ***. 
+- You should know ***. 
+- NO prior experience with ** is needed.
 - We will help you install Eclipse and get up and running with Maven and Tomcat.
 
 ##Let's have some fun
@@ -57,12 +57,10 @@ Reference:
 - See you in the course!
 
 ##Exercises
-- Split TodoController into different Controllers
-- Use same TodoController for both updates and new todo
-- Functionality to mark a Todo as complete
+- TODO
 
 ##Future Things To Do
-- Unit Tests - WTF - why are they not here in the first set?
+- TODO
 
 ##Conclusion
 - Thats a lot of ground we covered over the last so and so..
