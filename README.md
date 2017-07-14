@@ -38,7 +38,11 @@
 - You will use 
   - ... todo ...
   - Maven for dependency management, building and running the application in tomcat.
-  - Eclipse IDE.
+  - Eclipse IDE
+
+## Expectations
+- We have an awesome installation guide to help you install Maven and Eclipse. You are NOT expected to have any experience with Eclipse, Maven, or Tomcat.
+- What are we waiting for? Lets have some fun with *** in *** steps. We had a lot of fun creating this course for you and We are confident that you will have a lot of fun. I hope you are as excited as we are to learn more. Go ahead and enroll for the course. Or take a test drive with a free preview. See you in the course.
 
 
 ### Introduction
