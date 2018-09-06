@@ -194,7 +194,7 @@ You will be using Spring (Dependency Management), Spring MVC, Spring Boot, Sprin
 
 Congratulations on joining this course from in28Minutes. 
 
-We have 6800+ 5 Star reviews on our courses.  
+We have 14,000+ 5 Star reviews on our courses.  
 
 I hope that by the time you are prompted to leave a review, that you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see. If you do not think this course is a 5-star course, we want to make it a better course for you! Please message me with ways that I can make it the best course for you.
 
@@ -217,7 +217,7 @@ Ranga
 ```
 Congratulations on completing the course from in28Minutes.
 
-We have 6800+ 5 Star reviews on our courses. We hope you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see.
+We have 14,000+ 5 Star reviews on our courses. We hope you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see.
 
 We are on a constant journey to improve our courses further. Do message me if you have any suggestions.
 
@@ -241,6 +241,10 @@ http://eepurl.com/bOJulL
 ## Future Things To Do
 - TODO
 
+### Other Courses
+- 300+ Videos and Courses - https://github.com/in28minutes/learn
+- [25 Videos and Articles for Beginners on Spring Boot](http://www.springboottutorial.com/spring-boot-tutorials-for-beginners)
+
 ## About in28Minutes
 - At in28Minutes, we ask ourselves one question everyday. How do we help you learn effectively - that is more quickly and retain more of what you have learnt?
 - We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real World Application Examples. 
@@ -258,21 +262,6 @@ http://eepurl.com/bOJulL
 - We will be developing a demo application in the course, which could be reused in your projects, saving hours of your effort.
 - We love open source and therefore, All our code is open source too and available on Github.
 
-### Other Courses
-
-- [Check out all our courses with 100,000 Students](https://courses.in28minutes.com/courses)
-- [25 Videos and Articles for Beginners on Spring Boot](http://www.springboottutorial.com/spring-boot-tutorials-for-beginners)
-- Our Best Courses with 66,000 Students and 4,000 5-Star Ratings
-  * [Java Interview Guide : 200+ Interview Questions and Answers](https://www.udemy.com/java-interview-questions-and-answers/?couponCode=JAVA_INTER_GIT)
-  * [First Web Application with Spring Boot](https://www.udemy.com/spring-boot-first-web-application/?couponCode=SPRING-BOOT-1-GIT)
-  * [Spring Boot Tutorial For Beginners](https://www.udemy.com/spring-boot-tutorial-for-beginners/?couponCode=SPRING-BOOT-GIT)
-  * [Mockito Tutorial : Learn mocking with 25 Junit Examples](https://www.udemy.com/mockito-tutorial-with-junit-examples/?couponCode=MOCKITO_GIT)
-  * [Java EE Made Easy - Patterns, Architecture and Frameworks](https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=EEPATTERNS-GIT)
-  * [Spring MVC For Beginners : Build Java Web App in 25 Steps](https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode=SPRINGMVC-GIT)
-  * [JSP Servlets For Beginners : Build Java Web App in 25 Steps](https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/?couponCode=JSPSRVLT-GIT)
-  * [Maven Tutorial - Manage Java Dependencies in 25 Steps](https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN_GIT)
-  * [Java OOPS in 1 Hours](https://www.udemy.com/learn-object-oriented-programming-in-java/?couponCode=OOPS-GIT)
-  * [C Puzzle for Interview](https://www.udemy.com/c-puzzles-for-beginners/?couponCode=CPUZZLES-GIT)
   
 ### Useful Links
 - [Our Website](http://www.in28minutes.com)
