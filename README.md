@@ -1,29 +1,75 @@
 # [TITLE_OF_THE_BEST_COURSE]
 ## Caption for the course.
 
-* [Course Overview](#course-overview)
-  - [Course Steps](#step-list)
-  - [Expectations](#expectations)
-* [Installing Eclipse, Maven and Java](#installing-tools)
-* [Running Examples](#running-examples)
-* [About in28Minutes](#about-in28minutes)
-  - [Our Beliefs](#our-beliefs)
-  - [Our Approach](#our-approach)
-  - [Find Us](#useful-links)
-  - [Other Courses](#other-courses)
-
 ## Course Checklist
 
+- Course Content
+  - Title, SubTitle and Description with Keyword Analysis (wordcounter.net)
+  - Course Image
+  - Welcome and Course Completion Message
+  - Bonus Lecture
+  - Bold Keywords in Description
+- Post Course Creation
+  - Course Promotion Emails/Posts
+    - 2 Emails on Udemy
+    - 2 Emails to Email List
+    - Post Update on LinkedIn, Facebook Pages and Facebook Groups
+  - Update Links 
+    - Spring Boot Tutorial
+    - Github Repos, Learn Page
+    - in28Minutes.com
+  - Create YouTube Course Preview Video
+    - Add YouTube Course Preview Video as End Video for all videos
+    - Make it the YouTube Default Video
+  - Do atleast 3 Youtube live sessions
+  - After a Month
+    - UFB and Packt
+
 ## Getting Started
+
+#### Introduction Videos
+
 - Eclipse - https://courses.in28minutes.com/p/eclipse-tutorial-for-beginners
 - Maven - https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps
 - JUnit - https://courses.in28minutes.com/p/junit-tutorial-for-beginners
 - Mockito - https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps
 
-## Installing Tools
-- Installation Video : https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
-- GIT Repository For Installation : https://github.com/in28minutes/getting-started-in-5-steps
-- PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
+#### Required Tools
+
+- Node v8+ for npm
+- Visual Studio Code - Latest Version
+- Java 8+
+- Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
+
+#### Installing Node Js (npm) & Visual Studio Code 
+
+- Playlist - https://www.youtube.com/playlist?list=PLBBog2r6uMCQN4X3Aa_jM9qVjgMCHMWx6
+- Steps
+  - Step 01 - Installing NodeJs and NPM - Node Package Manager
+  - Step 02 - Quick Introduction to NPM
+  - Step 03 - Installing Visual Studio Code - Front End Java Script Editor
+
+#### Installing Java, Eclipse & Embedded Maven
+
+- Playlist - https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
+- Steps
+  - 0 - Overview - Installation Java, Eclipse and Maven
+  - 1 - Installing Java JDK
+  - 2 - Installing Eclipse IDE
+  - 3 - Using Embedded Maven in Eclipse
+  - 4 - Troubleshooting Java, Eclipse and Maven
+
+#### Troubleshooting Installations
+
+- Node JS and NPM 
+  - https://docs.npmjs.com/common-errors
+  - https://docs.npmjs.com/getting-started/troubleshooting
+- Visual Studio Code
+  - https://code.visualstudio.com/docs/supporting/errors
+  - https://code.visualstudio.com/docs/supporting/FAQ
+- Eclipse and Embedded Maven
+  - PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
+  - GIT Repository For Installation : https://github.com/in28minutes/getting-started-in-5-steps
 
 ## Running Examples
 - Download the zip or clone the Git repository.
@@ -37,28 +83,26 @@
 - You are all Set
 - For help : use our installation guide - https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
 
-## [TITLE_OF_THE_BEST_COURSE] Overview
-
-### Introduction
-Developing your first application with XYZ Framework is fun.
-
-Introduction to XYZ Framework..
-
-In this course, you will learn the basics developing a Basic Todo Management Application using XYZ Framework.
-
-You will build the application step by step - in more than 25 steps. This course would be a perfect first step as an introduction to XYZ Framework.
-
-You will be using Spring (Dependency Management), Spring MVC, Spring Boot, Spring Security (Authentication and Authorization), BootStrap (Styling Pages), Maven (dependencies management), Eclipse (IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
-
-### What You will learn
-
+## What you'll learn
 - You will learn to Topic No 1
 - You will understand about Topic No 1
 - You will develop a great application
-
-##### Examples
 - You will learn to design and develop SOAP and RESTful web services with Spring Boot
 - You will learn the magic of Spring Boot - Auto Configuration, Spring Initializr and Starter Projects
+- You will Learn the Best Practices in Developing Awesome Java Spring Applications from an Expert with 20 Years of Programming Experience
+- You will Acquire ALL the SKILLS to demonstrate an EXPERTISE with Spring Framework in Your Job Interviews
+- You will Acquire ALL the Python Skills needed to TRANSITION into Analytics, Machine Learning and Data Science Roles
+- You will Develop a REAL-TIME project with Angular and Spring Boot from SCRATCH
+- You will Join 250,000 Learners having AMAZING LEARNING Experiences with in28Minutes
+- You will Learn Spring Framework the MODERN WAY - The way Real Projects use it!
+- You will Become a COMPLETE Spring Developer - With the ability to write Great Unit Tests
+- You will Go from a Total Beginner to an Experienced Spring Developer
+- You will Become the go to guy for Fixing Spring Framework problems in Your Project
+- You will Build an Amazing Single Page Application combining Angular with Spring Boot REST APIs
+- You will Master Fundamentals of Spring Framework from Zero, no previous experience required
+- You will Learn Basics of ....
+- You will Get expertise in the toolchain supporting Spring, including Spring Boot, Maven, Eclipse, JUnit and Mockito
+- You will Understand the LATEST frameworks and technologies, including Spring Boot, Maven, Eclipse, JUnit and Mockito.
 - You will learn to connect web services to JPA/Hibernate with Spring Boot
 - You will understand how to implement Exception Handling, Validation, HATEOAS and filtering for RESTful Web Services.
 - You will learn to use a wide variety of Spring Boot Starter Projects - Spring Boot Web, Spring Boot Web Services, Spring Boot Data JPA
@@ -80,43 +124,200 @@ You will be using Spring (Dependency Management), Spring MVC, Spring Boot, Sprin
 - You will learn how to externalise application configuration using Spring Boot Profiles and Dynamic Configuration
 - You will understand and use the embedded servlet container options provided by Spring Boot - Tomcat, Jetty and Undertow
 - You will learn to write great Unit and Integration tests using Spring Boot Starter Test
+- You will learn the basics of Spring Framework - Dependency Injection, IOC Container, Application Context and Bean Factory.
+- You will understand how to use Spring Annotations - @Autowired, @Component, @Service, @Repository, @Configuration, @Primary....
+- You will understand Spring MVC in depth - DispatcherServlet , Model, Controllers and ViewResolver
+- You will use a variety of Spring Boot Starters - Spring Boot Starter Web, Starter Data Jpa, Starter Test
+- You will learn the basics of Spring Boot, Spring AOP, Spring JDBC and JPA
+- You will learn the basics of Eclipse, Maven, JUnit and Mockito
+- You will develop a basic Web application step by step using JSP Servlets and Spring MVC
+- You will learn to write unit tests with XML, Java Application Contexts and Mockito
 
+## Requirements
+- You have an attitude to learn while having fun :)
+- You have some programming experience with Java and you are a Spring Framework beginner
+- This not a beginner course — You should be confident in coding HTML and CSS before taking the course
 
-### Requirements
-- You should have working knowledge of Java and Annotations. 
-- We will help you install Eclipse and get up and running with Maven and Tomcat.
+## Copy Writing Phrases For This Course
+
+#### Keywords
+- wordcounter.net
+
+#### Questions To Ask Yourselves
+- What's in it for the Student?
+- What are the top questions in students mind?
+- What are the appealing subject lines?
+- Subject Line - Ask a Question. Create Curiosity. Tease to What's Inside. Make a Bold Promise. 
+  - Start 2018 with 6 Best Selling Courses
+  - [NEW COURSE] How to become a Software Architect?
+  - ⚡⚡⚡ [UDEMY BLACK FRIDAY] - Premium Courses for $10
+  - Just Released - Three Amazing FREE Courses
+  - Change Your Life Through Online Learning
+  - If You are Ready to Change Your Life...
+  - Is it Your Time... (to become an architect)
+  - By Far, The Easiest Way? ... (to learn full stack development)
+  - #1 Skill For Years to Come
+  - Do You have the #1 Skill for a Java Developer?
+  - Do You want to be Future Proof?
+  - Why do I love Teaching Online?
+  - Are You Ready to Make a Career Defining Move?
+  - 5 Tips to Write Blog Introductions Like a Pro
+  - 17 Facts About Content Marketing That You Didn’t Know
+  - 6 Insights to the Future of Search Engine Optimization
+  - Top 10 Small Business Plan Templates That Succeeded
+  - 5 Steps I Took to Write My First Kindle Book (And How You Can Do It in 4 Steps)
+  - How to Conquer Writer’s Block in 6 Simple Steps
+  - Case Study: How Courage Helped Me to Build a 6 Figure Online Business
+  - How to Get Rid of Content Marketing Failure and Drive Search Traffic
+  - Stop Wasting Time: Get Rid of Flashy Social Media Tools and Get More Done
+  - 7 Smart Ways to Get Rid of Affiliate Marketing Struggle and Make More Money
+  - And the Winner for Best Film About Design Is…
+- Use You and Me Language - Show Empathy. Describe Problem. Show Solution. Show Expertise. CTA.
+- Content
+  - Think about Slippery Slide
+  - You know, it would be nice if the Journey to become a Software Architect is Plain and Easy. But, unfortunately, life isn't that easy - we all know that.
+  - I know these can work for you, too.
+  - Get EVERY course below for just $10 - The Lowest Price I'm allowed to offer
+  - To Your Success! Ranga
+  - Headshot Image
+  - Follow up Email - Wed and next Tue or Mon and Fri 
+
+```
+https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular/?couponCode=TEACHABLE-2019
+
+How to become a Full Stack Developer? This is the number two question that I’m asked when talking to Programmers and Senior Developers.
+
+In this course, You will learn the Basics of Full Stack Development developing a Basic Todo Management Application using Angular, Spring Boot and Spring Security Frameworks.
+
+For existing in28Minutes Learners, we are creating a special offer for just $9.99. This is the LOWEST possible price allowable on Udemy. 
+
+As always, you receive a full 30-day, unconditional money back guarantee because I know you are going to love our courses!
+
+https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular/?couponCode=FIRST-PROMO
+
+You will learn Basics of Building awesome frontend applications with Angular. You will learn the basic of Angular - Angular Modules, Components, Data Binding and Routing. You will be introduced to building great RESTful APIs with Spring Boot. You will learn to use Spring Security to configure Basic Authentication and JWT. You will learn to solve the challenges of connecting an Angular Frontend to a RESTful API
+
+https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular/?couponCode=FIRST-PROMO
+
+Happy coding and thanks for being a student!
+
+Ranga
+
+Thank you for all the love!
+
+#in28Minutes #ImLearningIn28Minutes #ImLovingIn28Minutes
+
+Good Luck and Keep Learning in28Minutes
+
+Java Course RoadMap Image at the End!
+```
+
+## Description
+
+REST?   Yes.      Spring Boot?  Yes      SOAP?   Yes      Best Practices?  Yes    Hands-on?   Of course.    Zero Programming Experience? No Problem. 
+
+Do you have ZERO programming Experience? Do you want to learn Java with an easy to learn, step by step approach? Are you ready to master Java and take the next step in your programming career? Do you want to Master Building Great Java Web Services - both RESTful and SOAP - with Spring Boot? Do you want to join 250,000+ learners having Amazing Learning Experiences with in28Minutes?
+
+Look No Further!
+
+******* Some Amazing Reviews From Our Learners *******
+
+★★★★★ Review 1
+★★★★★ Review 2 
+★★★★★ Review 3 
+★★★★★ Review 4 
+★★★★★ Review 5 
+
+******* Course Overview *******
+
+Developing your first application with XYZ Framework is fun.
+
+Introduction to XYZ Framework..
+
+In this course, you will learn the basics developing a Basic Todo Management Application using XYZ Framework.
+
+You will build the application step by step - in more than 25 steps. This course would be a perfect first step as an introduction to XYZ Framework.
+
+You will be using Spring (Dependency Management), Spring MVC, Spring Boot, Spring Security (Authentication and Authorization), BootStrap (Styling Pages), Maven (dependencies management), Eclipse (IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
+
+******* What You Can Expect from Every in28Minutes Course *******
+
+in28Minutes created 20 Best Selling Courses providing Amazing Learning Experiences to 250,000 Learners across the world.
+
+Each of these courses come with
+✔ Amazing Hands-on Step By Step Learning Experiences
+✔ Real Project Experiences using the Best Tools and Frameworks
+✔ Awesome Troubleshooting Guides with 200+ FAQs Answered
+✔ Friendly Support in the Q&A section
+✔ Free Udemy Certificate of Completion on Completion of Course
+✔ 30 Day "No Questions Asked" Money Back Guarantee!
+
+~~~ Here are a Few Reviews on The in28Minutes Way ~~~
+
+★★★★★ Excellent, fabulous. The way he has prepared the material and the way he teaches is really awesome. What an effort .. Thanks a million
+★★★★★ A lot of preparation work has taken place from the teacher and this is visible throughout the course.
+★★★★★ This guy is fantastic. Really. Wonderful teaching skills, and goes well out of his way to make sure that everything he is doing is fully understood. This is the kind of tutorial that gets me excited to work with a framework that I may otherwise not be.
+★★★★★ The best part of it is the hands-on approach which the author maintained throughout the course as he had promised at the beginning of the lecture. He explains the concepts really well and also makes sure that there is not a single line of code you type without understanding what it really does.
+★★★★★ I also appreciate the mind and hands approach of teaching something and then having the student apply it. It makes everything a lot clearer for the student and uncovers issues that we will face in our project early.
+★★★★★ Amazing course. Explained super difficult concepts (that I have spent hours on the internet finding a good explanation) in under 5 minutes.
+
+Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
+
+Start Learning Now. Hit the Enroll Button!
+
+******* Step By Step Details *******
 
 
 ### Step Wise Details
-- Step 01: Learn to Dance
-- Step 02: 
-- Step 03: 
-- Step 04: 
-- Step 05: 
-- Step 06: 
-- Step 07: 
-- Step 08: 
-- Step 09: 
-- Step 10: 
-- Step 11: 
-- Step 12: 
-- Step 13: 
-- Step 14: 
-- Step 15: 
-- Step 16: 
-- Step 17: 
-- Step 18: 
-- Step 19: 
-- Step 20: 
-- Step 21: 
-- Step 22: 
-- Step 23: 
-- Step 24: 
-- Step 25: 
+- 01 Step 01: 
+- 01 Step 02: 
+- 01 Step 03: 
+- 01 Step 04: 
+- 01 Step 05: 
+- 01 Step 06: 
+- 01 Step 07: 
+- 01 Step 08: 
+- 01 Step 09: 
+- 01 Step 10: 
+- 01 Step 11: 
+- 01 Step 12: 
+- 01 Step 13: 
+- 01 Step 14: 
+- 01 Step 15: 
+- 01 Step 16: 
+- 01 Step 17: 
+- 01 Step 18: 
+- 01 Step 19: 
+- 01 Step 20: 
+- 01 Step 21: 
+- 01 Step 22: 
+- 01 Step 23: 
+- 01 Step 24: 
+- 01 Step 25: 
+- 01 Step 26: 
+- 01 Step 27: 
+- 01 Step 28: 
+- 01 Step 29: 
+- 01 Step 30: 
+- 01 Step 31: 
+- 01 Step 32: 
+- 01 Step 33: 
+- 01 Step 34: 
+- 01 Step 35: 
+
+Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
+
+Start Learning Now. Hit the Enroll Button!
+
+```sh
+for file in *; do mv "${file}" "${file//-/ }"; done
+for file in *; do mv "${file}" "${file//   / - }"; done
+for file in *; do mv "${file}" "${file//01 Step/Step}"; done
+```
 
 ### Course Recording Notes
 
- #### Preview Video
+#### Preview Video
 - Welcome to course on *** in ** simple steps.
 - I'm Ranga Karanam. I've so and so much experience with ... I've been using this framework for ...
 - At in28minutes, we ask one question everyday - How to create more effective courses? All our success - *** students on Udemy and *** subscribers on Youtube - is a result of this pursuit of excellence.
@@ -189,14 +390,14 @@ You will be using Spring (Dependency Management), Spring MVC, Spring Boot, Sprin
 ### Welcome Message
 ```
 
-## ADD A FEW SAMPLE REVIEWS AFter a couple of months
+## ADD A FEW SAMPLE REVIEWS After a couple of months
 ## ADD A FEW SAMPLE REVIEWS - in the description of the course 
 
 Congratulations on joining this course from in28Minutes. 
 
-We have 14,000+ 5 Star reviews on our courses.  
+We have 17,500+ 5 Star (★★★★★) reviews  on our courses. 
 
-I hope that by the time you are prompted to leave a review, that you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see. If you do not think this course is a 5-star course, we want to make it a better course for you! Please message me with ways that I can make it the best course for you.
+I hope that by the time you are prompted to leave a review, that you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see.
 
 There are three things you need to understand before you start this course!
 
@@ -215,23 +416,44 @@ Ranga
 ### Thank You for completing the course message
 
 ```
-Congratulations on completing the course from in28Minutes.
+Congratulations on completing the course from in28Minutes. in28Minutes has 20 Best Selling Courses providing Amazing Learning Experiences to Half a Million Learners across the world.
 
-We have 14,000+ 5 Star reviews on our courses. We hope you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see.
+We have more than 17,500 5-Star(★★★★★) reviews  on our courses. We hope you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see.
 
-We are on a constant journey to improve our courses further. Do message me if you have any suggestions.
+I would love to see you in another in28Minutes course.
 
 Good Luck for your future.
 
+To Your Success!
 Ranga from in28Minutes
 ```
 
-### Bonus Lectures
+### Bonus Lectures  
+
+TITLE : Bonus Lecture : 20 Best-Selling Courses providing Amazing Learning Experiences
 
 ```
-Our Best Selling Courses
-Get unbelievable offers on all our best-selling courses!
-http://eepurl.com/bOJulL
+I hope you enjoyed the course! in28Minutes has 20 Best Selling Courses providing Amazing Learning Experiences to Half a Million Learners across the world.
+
+You can connect with me and share your success on LinkedIn - https://www.linkedin.com/in/rangakaranam/. I would love to see your Course Completion Certificates!
+
+We would like to thank you for all the love. Here are exclusive coupons handpicked for you, to continue your learning journey.
+
+Each of these courses come with
+✔ Amazing Hands-on Step By Step Learning Experiences
+✔ Practical, Real World Project Experiences using the Best Tools and Frameworks
+✔ Free Udemy Certificate of Completion on Completion of Course
+
+- Copy relevant courses from https://github.com/in28minutes/learn
+
+Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
+
+Start Learning Now. Hit the Enroll Button!
+
+Ranga
+
+- Include Java RoadMap Image
+- Make Keywords Bold!
 
 ```
 
@@ -249,7 +471,7 @@ http://eepurl.com/bOJulL
 - At in28Minutes, we ask ourselves one question everyday. How do we help you learn effectively - that is more quickly and retain more of what you have learnt?
 - We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real World Application Examples. 
 - Our success on Udemy and Youtube (2 Million Views & 12K Subscribers) speaks volumes about the success of our approach.
-- While our primary expertise is on Development, Design & Architecture Java & Related Frameworks (Spring, Struts, Hibernate) we are expanding into the front-end world (Bootstrap, JQuery, Angular JS). 
+- While our primary expertise is on Development, Design & Architecture Java & Related Frameworks (Spring, Struts, Hibernate) we are expanding into the front-end world (Bootstrap, JQuery, Angular). 
 
 ### Our Beliefs
 - Best Courses are interactive and fun.
@@ -258,7 +480,7 @@ http://eepurl.com/bOJulL
 ### Our Approach
 - Problem Solution based Step by Step Hands-on Learning
 - Practical, Real World Application Examples.
-- We use 80-20 Rule. We discuss 20% things used 80% of time in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own. 
+- We use 80-20 Rule. We discuss 20% things used 80% of time - in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own. 
 - We will be developing a demo application in the course, which could be reused in your projects, saving hours of your effort.
 - We love open source and therefore, All our code is open source too and available on Github.
 
