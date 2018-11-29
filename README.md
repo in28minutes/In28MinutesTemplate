@@ -266,9 +266,6 @@ Zero risk. 30 day money-back guarantee with every purchase of the course. You ha
 Start Learning Now. Hit the Enroll Button!
 
 ******* Step By Step Details *******
-
-
-### Step Wise Details
 - 01 Step 01: 
 - 01 Step 02: 
 - 01 Step 03: 
@@ -455,6 +452,20 @@ Ranga
 - Include Java RoadMap Image
 - Make Keywords Bold!
 
+```
+
+### Message 
+
+```
+Good day! I'm contacting your regarding your feedback on the in28Minutes course.
+
+I observe that you have given our course a very low rating without a description. I understand that you might have faced problems with the course. I would like you to understand that this is a very highly rated course with great reviews.
+
+At in28minutes, we consider feedback as a vital part of cycle of providing the best possible course for students. We would love to hear from you what we can do to improve our course futher.
+
+If you would want to reconsider your rating, you can visit the course page now.
+
+Good Luck and until I see you in another in28minutes course. Bye
 ```
 
 ## Exercises
