@@ -149,6 +149,8 @@
 - What are the appealing subject lines?
 - Subject Line - Ask a Question. Create Curiosity. Tease to What's Inside. Make a Bold Promise. 
   - Start 2018 with 6 Best Selling Courses
+  - ⏰ Only hours left! ⏰ Claim your Black Friday offer now
+Inbox
   - [NEW COURSE] How to become a Software Architect?
   - ⚡⚡⚡ [UDEMY BLACK FRIDAY] - Premium Courses for $10
   - Just Released - Three Amazing FREE Courses
