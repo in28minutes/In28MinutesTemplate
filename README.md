@@ -456,19 +456,24 @@ Ranga
 
 ```
 
-### Message 
+### Review Management Message 
 
-```
-Good day! I'm contacting your regarding your feedback on the in28Minutes course.
+Good day! I'm contacting you regarding your feedback on an in28Minutes course. I observe that you have given our course a very low rating. I understand that you might have faced problems with the course.
+in28Minutes has 20 Best Selling Courses providing Amazing Learning Experiences to 250,000 Learners across the world. 
+At in28minutes, we consider feedback as a vital part of cycle of providing the best possible course for students. 
+We would love to hear from you what we can do to improve our course futher.
+If you would want to reconsider your rating, you can visit the course page now. You can find help here on how to update your review - https://support.udemy.com/hc/en-us/articles/229234267-Leaving-and-Editing-a-Course-Review
+Feel Free to Message Me If You Have any Questions.
 
-I observe that you have given our course a very low rating without a description. I understand that you might have faced problems with the course. I would like you to understand that this is a very highly rated course with great reviews.
+Good Luck and Cheers!
+To Your Success
+Ranga
 
-At in28minutes, we consider feedback as a vital part of cycle of providing the best possible course for students. We would love to hear from you what we can do to improve our course futher.
+Thank you for all the love!
+Good Luck and Keep Learning in28Minutes
 
-If you would want to reconsider your rating, you can visit the course page now.
+#in28Minutes #ImLearningIn28Minutes #ImLovingIn28Minutes
 
-Good Luck and until I see you in another in28minutes course. Bye
-```
 
 ## Exercises
 - TODO
