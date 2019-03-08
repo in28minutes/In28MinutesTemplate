@@ -16,8 +16,11 @@
     - Post Update on LinkedIn, Facebook Pages and Facebook Groups
   - Update Links 
     - Spring Boot Tutorial
-    - Github Repos, Learn Page
-    - in28Minutes.com
+    - Github Repos
+      - Learn Page
+    - in28Minutes.com 
+      - Course List Page
+    - Teachable Free Courses
   - Create YouTube Course Preview Video
     - Add YouTube Course Preview Video as End Video for all videos
     - Make it the YouTube Default Video
@@ -389,14 +392,10 @@ for file in *; do mv "${file}" "${file//01 Step/Step}"; done
 ### Welcome Message
 ```
 
-## ADD A FEW SAMPLE REVIEWS After a couple of months
+## ADD A FEW SAMPLE REVIEWS AFter a couple of months
 ## ADD A FEW SAMPLE REVIEWS - in the description of the course 
 
 Congratulations on joining this course from in28Minutes. 
-
-We have 17,500+ 5 Star (★★★★★) reviews  on our courses. 
-
-I hope that by the time you are prompted to leave a review, that you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see.
 
 There are three things you need to understand before you start this course!
 
@@ -409,15 +408,13 @@ Set 1 hour aside every day for the next week for this course! No exceptions allo
 3...... Udemy asks you for a review very early in the course! If you are not ready for giving a review, you can skip giving a review.
 
 Thank you and enjoy the course,
-Ranga
+Ranga From in28Minutes
 ```
 
 ### Thank You for completing the course message
 
 ```
 Congratulations on completing the course from in28Minutes. in28Minutes has 20 Best Selling Courses providing Amazing Learning Experiences to Half a Million Learners across the world.
-
-We have more than 17,500 5-Star(★★★★★) reviews  on our courses. We hope you think this course is an amazing course and can write a few sentences about what you like about the course for future students to see.
 
 I would love to see you in another in28Minutes course.
 
