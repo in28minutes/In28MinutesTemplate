@@ -1,4 +1,7 @@
 # [TITLE_OF_THE_BEST_COURSE]
+
+TODO : ADD COURSE IMAGE
+
 ## Caption for the course.
 
 ## Course Checklist
@@ -189,7 +192,7 @@ Inbox
   - Follow up Email - Wed and next Tue or Mon and Fri 
 
 ```
-https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=OCTOBER-2019
+https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=NOVEMBER-2019
 
 How to become a Full Stack Developer? This is the number two question that I’m asked when talking to Programmers and Senior Developers.
 
@@ -199,11 +202,11 @@ For existing in28Minutes Learners, we are creating a special offer for just $9.9
 
 As always, you receive a full 30-day, unconditional money back guarantee because I know you are going to love our courses!
 
-https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=OCTOBER-2019
+https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=NOVEMBER-2019
 
 You will learn Basics of Building awesome frontend applications with Angular. You will learn the basic of Angular - Angular Modules, Components, Data Binding and Routing. You will be introduced to building great RESTful APIs with Spring Boot. You will learn to use Spring Security to configure Basic Authentication and JWT. You will learn to solve the challenges of connecting an Angular Frontend to a RESTful API
 
-https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=OCTOBER-2019
+https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=NOVEMBER-2019
 
 Happy coding and thanks for being a student!
 
@@ -256,7 +259,7 @@ Each of these courses come with
 ✔ Awesome Troubleshooting Guides with 200+ FAQs Answered
 ✔ Friendly Support in the Q&A section
 ✔ Free Udemy Certificate of Completion on Completion of Course
-✔ 30 Day "No Questions Asked" Money Back Guarantee!
+
 
 ~~~ Here are a Few Reviews on The in28Minutes Way ~~~
 
@@ -267,7 +270,7 @@ Each of these courses come with
 ★★★★★ I also appreciate the mind and hands approach of teaching something and then having the student apply it. It makes everything a lot clearer for the student and uncovers issues that we will face in our project early.
 ★★★★★ Amazing course. Explained super difficult concepts (that I have spent hours on the internet finding a good explanation) in under 5 minutes.
 
-Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
+
 
 Start Learning Now. Hit the Enroll Button!
 
@@ -381,7 +384,7 @@ Start Learning Now. Hit the Enroll Button!
 - 01 Step 34 - 
 - 01 Step 35 - 
 
-Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
+
 
 Start Learning Now. Hit the Enroll Button!
 
@@ -516,7 +519,7 @@ Each of these courses come with
 
 - Copy relevant courses from https://github.com/in28minutes/learn
 
-Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
+
 
 Start Learning Now. Hit the Enroll Button!
 
@@ -552,30 +555,13 @@ Good Luck and Keep Learning in28Minutes
 ## Future Things To Do
 - TODO
 
-### Other Courses
-- 300+ Videos and Courses - https://github.com/in28minutes/learn
-- [25 Videos and Articles for Beginners on Spring Boot](http://www.springboottutorial.com/spring-boot-tutorials-for-beginners)
+### Troubleshooting
+- Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
 
-## About in28Minutes
-- At in28Minutes, we ask ourselves one question everyday. How do we help you learn effectively - that is more quickly and retain more of what you have learnt?
-- We use Problem-Solution based Step-By-Step Hands-on Approach With Practical, Real World Application Examples. 
-- Our success on Udemy and Youtube (2 Million Views & 12K Subscribers) speaks volumes about the success of our approach.
-- While our primary expertise is on Development, Design & Architecture Java & Related Frameworks (Spring, Struts, Hibernate) we are expanding into the front-end world (Bootstrap, JQuery, Angular). 
+## Youtube Playlists - 500+ Videos
 
-### Our Beliefs
-- Best Courses are interactive and fun.
-- Foundations for building high quality applications are best laid down while learning.
+[Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://www.youtube.com/user/rithustutorials/playlists?view=1&sort=lad&flow=list)
 
-### Our Approach
-- Problem Solution based Step by Step Hands-on Learning
-- Practical, Real World Application Examples.
-- We use 80-20 Rule. We discuss 20% things used 80% of time - in depth. We touch upon other things briefly equipping you with enough knowledge to find out more on your own. 
-- We will be developing a demo application in the course, which could be reused in your projects, saving hours of your effort.
-- We love open source and therefore, All our code is open source too and available on Github.
+## Keep Learning in28Minutes
 
-  
-### Useful Links
-- [Our Website](http://www.in28minutes.com)
-- [Facebook](http://facebook.com/in28minutes)
-- [Twitter](http://twitter.com/in28minutes)
-- [Google Plus](https://plus.google.com/u/3/110861829188024231119)
+in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - [Check out all our courses here](https://github.com/in28minutes/learn)
