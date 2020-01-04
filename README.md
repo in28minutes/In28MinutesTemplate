@@ -192,7 +192,7 @@ Inbox
   - Follow up Email - Wed and next Tue or Mon and Fri 
 
 ```
-https://rebrand.ly/MISC-ANGULAR
+https://links.in28minutes.com/MISC-ANGULAR
 
 How to become a Full Stack Developer? This is the number two question that I’m asked when talking to Programmers and Senior Developers.
 
@@ -202,11 +202,11 @@ For existing in28Minutes Learners, we are creating a special offer for just $9.9
 
 As always, you receive a full 30-day, unconditional money back guarantee because I know you are going to love our courses!
 
-https://rebrand.ly/MISC-ANGULAR
+https://links.in28minutes.com/MISC-ANGULAR
 
 You will learn Basics of Building awesome frontend applications with Angular. You will learn the basic of Angular - Angular Modules, Components, Data Binding and Routing. You will be introduced to building great RESTful APIs with Spring Boot. You will learn to use Spring Security to configure Basic Authentication and JWT. You will learn to solve the challenges of connecting an Angular Frontend to a RESTful API
 
-https://rebrand.ly/MISC-ANGULAR
+https://links.in28minutes.com/MISC-ANGULAR
 
 Happy coding and thanks for being a student!
 
