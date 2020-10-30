@@ -4,7 +4,7 @@ TODO : ADD COURSE IMAGE
 
 ## Caption for the course.
 
-## Course Checklist
+#### Course Checklist
 
 - Course Content
   - Title, SubTitle and Description with Keyword Analysis (wordcounter.net)
@@ -31,6 +31,32 @@ TODO : ADD COURSE IMAGE
   - Do atleast 3 Youtube live sessions
   - After a Month
     - UFB and Packt
+
+#### Link Creation
+
+- Get referral code for the course - https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?referralCode=CC97F2AE4BE944E8F190
+- Create Rebrandly Links:
+  - https://links.in28minutes.com/aws-cloud-prac-learn
+  - https://links.in28minutes.com/aws-cloud-prac-sbt
+  - https://links.in28minutes.com/aws-cloud-prac-email
+  - https://links.in28minutes.com/aws-cloud-prac-other
+
+#### Create image
+
+- Zoom to 125% in Chrome and Create an Image for the Course (750px X *)
+- Upload the image to in28minutes.github.io
+
+#### Search, Replace and Commit
+
+```
+[![Image](https://www.springboottutorial.com/images/Course-aws-certified-cloud-practitioner.png "AWS Cloud Practitioner Certification")](https://links.in28minutes.com/aws-cloud-prac-learn)
+
+<a target='_blank' href="https://links.in28minutes.com/aws-cloud-prac-sbt" ><img src="https://www.springboottutorial.com/images/Course-aws-certified-cloud-practitioner.png" alt="Image" title="AWS Cloud Practitioner Certification"></a>
+
+
+<p><a target='_blank' href="https://links.in28minutes.com/aws-cloud-prac-sbt" ><img src="https://www.springboottutorial.com/images/Course-aws-certified-cloud-practitioner.png" alt="Image" title="AWS Cloud Practitioner Certification"></a></p>
+
+```
 
 ## Getting Started
 
